@@ -1,0 +1,33 @@
+.aboutmain{
+    box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.25);
+    /* width: 100%; */
+    margin: 20px;
+    padding: 20px 20px 20px 30px;
+    background: rgba(255, 255, 255, 1);
+
+}
+.about{
+    padding: 40px;
+}
+h6{
+    font-size: medium;
+    margin: 15px 0px;
+    font-weight: 500;
+
+
+}
+h3{
+    font-size: 40px;
+    margin: 0px;
+    font-weight: 400;
+    margin-left: 18px;
+
+
+}
+ h5{
+    font-size: 20px;
+    margin: 15px 0px;
+    font-weight: 400;
+
+
+ }

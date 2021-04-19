@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.app{
+  display: flex;
+}
+.sidebar{
+  width: 15%;
+  background:rgba(30, 95, 116, 1)  ;
+  height: 1080px;
+}
+.rendercmp{
+  width: 85%;
+  background: #E5E5E5;
+
+}
+.sidetab{
+  padding: 10px;
+  display: flex;
+}
+.sidetitl{
+ margin-left: 15px;
+
+}
+.sidehed{
+  margin-left: 15px;
+  color: white;
+  font-weight: 500;
+
+
+}
+.sidetab2{
+  margin: 15px;
+margin-bottom: 40PX;
+display: flex;
+
+  
+}
+input{
+  border: none;
+  border-bottom:  2px solid rgba(0, 0, 0, 1);
+  outline: 0px;
+}
+.ative{
+  background-color: #133B5C;
+}
